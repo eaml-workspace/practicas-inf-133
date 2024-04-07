@@ -4,11 +4,11 @@ Completa tus datos personales en la siguiente tabla:
 -------------------------
 | Nombres  | Apellidos  | CI   |
 | -------- | ---------- | ---- |
-| `nombre` | `apellido` | `ci` |
+| `Emanuel Alberto` | `Monzón Lozano` | `14488141` |
 
 ## Ejercicio 1
 Construye un servidor con el protocolo SOAP que permita a un cliente realizar las operaciones de suma, resta, multiplicación y división de dos números enteros.
-
+.....listo......
 ## Ejercicio 2
 Construye un API con GraphQL para gestionar el seguimiento de las plantas de un vivero. La API debe permitir:
 - Crear una planta
@@ -28,6 +28,8 @@ De las plantas se debe almacenar la siguiente información:
 
 **Rutas esperadas:**
 - `/graphql`
+
+.........más o menos.......
 
 ## Ejercicio 3
 Aplicando los principios de desarrollo de Software DRY, KISS, YAGNI y la S de SOLID construye un API RESTful para gestionar la información de los pacientes de un hospital. La API debe permitir:
@@ -57,8 +59,12 @@ De los pacientes se debe almacenar la siguiente información:
 - PUT `/pacientes/{ci}`
 - DELETE `/pacientes/{ci}`
 
+....más o menos....
+
 ## Ejercicio 4
 Aplica el patron de diseño BUILDER al ejercicio 3.
+
+.........más o menos................
 
 ## Ejercicio 5
 Construye una API RESTful para gestionar la información del los animales de un zoologico. La API debe permitir:
